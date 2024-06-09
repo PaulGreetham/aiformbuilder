@@ -1,0 +1,18 @@
+.user-message {
+  background-color: #1EAE98;
+  color: #fff;
+  padding: var(--spacing-small);
+  border-radius: var(--border-radius);
+  max-width: 60%;
+  margin-left: auto;
+  margin-bottom: var(--spacing-small);
+}
+
+.ai-message {
+  color: white;
+  background-color: #686D76;
+  padding: var(--spacing-small);
+  border-radius: var(--border-radius);
+  max-width: 60%;
+  margin-bottom: var(--spacing-small);
+}

@@ -1,0 +1,27 @@
+.query-form {
+  display: flex;
+  margin-bottom: var(--spacing-medium);
+  width: 100%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: var(--spacing-large);
+}
+
+.query-input {
+  flex: 1;
+  padding: var(--spacing-small);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  margin-right: var(--spacing-small);
+  padding: 1rem;
+}
+
+.query-button {
+  padding: var(--spacing-small) var(--spacing-medium);
+  border: none;
+  background-color: #1EAE98;
+  color: #fff;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+}

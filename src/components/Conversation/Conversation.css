@@ -1,0 +1,29 @@
+.conversation-container {
+  flex: 1;
+  width: 100%;
+  max-width: 600px;
+  background-color: #fff;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: var(--spacing-large);
+  margin-bottom: var(--spacing-large);
+}
+
+.user-message {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: var(--spacing-small);
+  border-radius: var(--border-radius);
+  max-width: 60%;
+  margin-left: auto;
+  margin-bottom: var(--spacing-small);
+}
+
+.ai-message {
+  background-color: #FFFFC7;
+  color: var(--text-color);
+  padding: var(--spacing-small);
+  border-radius: var(--border-radius);
+  max-width: 60%;
+  margin-bottom: var(--spacing-small);
+}

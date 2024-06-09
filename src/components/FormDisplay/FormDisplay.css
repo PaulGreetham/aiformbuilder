@@ -1,0 +1,22 @@
+.form-container {
+  width: 100%;
+  max-width: 600px;
+  background-color: #fff;
+  padding: var(--spacing-large);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.form-field {
+  margin-bottom: var(--spacing-medium);
+}
+
+.form-field label {
+  display: block;
+  margin-bottom: var(--spacing-small);
+}
+
+.form-field input[type="text"],
+.form-field input[type="radio"] {
+  margin-bottom: var(--spacing-small);
+}
