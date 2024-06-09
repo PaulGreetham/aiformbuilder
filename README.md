@@ -41,3 +41,38 @@ AI Form Builder is a web application built with React and TypeScript. It allows 
 
 4. **Open your browser:**
     Navigate to `http://localhost:3000` to see the app in action.
+
+
+### Input Required to Mimic AI Response
+
+ai: Hello, what form can I help you create today?
+
+user: An employee tech experience form.
+
+ai. Ok. What would you like to call this form?
+
+user: Tech Expereince Form
+
+ai: What is the first questions you would like to ask?
+
+user: What is your name?
+
+ai: Would you link a text or multiple choice answer?
+
+user: Text
+
+ai: What would you like to ask next?
+
+user: Tech Language Experience
+
+ai: would you like a text or multiple choice or text answer?
+
+user: Multiple Choice
+
+ai: ok. First, what is the name of this question?
+
+user: Tick Your Tech Langage Experience
+
+ai: what options would you like to add?
+
+user: JS, JSX, TSX, Java, Python
