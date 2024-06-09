@@ -81,7 +81,7 @@ const App: React.FC = () => {
   };
 
   const handleQuestionType = (type: string) => {
-    setCurrentQuestionType(type); // Save the type of question for multiple choice handling
+    setCurrentQuestionType(type);
 
     if (type.toLowerCase() === 'multiple choice') {
       const aiFollowUp: Message = {

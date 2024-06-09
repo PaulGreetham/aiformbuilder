@@ -1,10 +1,10 @@
 :root {
-  --primary-color: black;       /* Orange */
-  --background-color: white;    /* Off-white */
-  --secondary-color: #5F9DF7;     /* Light Blue */
-  --accent-color: #1746A2;        /* Dark Blue */
-  --text-color: #333333;          /* Default Text Color */
-  --border-color: #DDDDDD;        /* Border Color */
+  --primary-color: black;
+  --background-color: white;
+  --secondary-color: #5F9DF7;
+  --accent-color: #1746A2;
+  --text-color: #333333;
+  --border-color: #DDDDDD;
 
   /* Spacing */
   --spacing-small: 8px;
